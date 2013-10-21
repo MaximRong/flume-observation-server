@@ -11,6 +11,7 @@ flume-observation-server 是flume观察器对应的服务端程序，具体使�
         flumeHistoryFolder=对应的flume历史目录文件夹
         
 2.打包， 使用mvn打包，注意一定要跳过测试。
+
 3.发布， 将打好的包上传到flume对应机器上，使用java -jar命令执行。
 
 
