@@ -3,7 +3,8 @@ flume-observation-server
 
 
 
-flume-observation-server 是flume观察器对应的服务端程序，具体使用不走如下：
+flume-observation-server 是flume观察器对应的服务端程序，具体使用不走如下:
+
 
 1. 配置配置文件 ： 
         在classpath中找到：flume.properties 修改对应配置文件。
